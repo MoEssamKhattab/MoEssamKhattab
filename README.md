@@ -1,6 +1,6 @@
 # Hello World 👋
 
-Software developer passionate about providing high-quality software solutions. Tech enthusiast, driven, creative, detail-oriented and team player.
+Software developer passionate about providing high-quality software solutions. Currently, pursuing a bachelor's degree in Communication and Information Engineering at Zewail City of Science and Technology. Tech enthusiast, driven, creative, detail-oriented and team player.
 
 
 ## 📊 GitHub Stats
