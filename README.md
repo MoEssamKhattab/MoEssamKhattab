@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello World 👋
 
-<!--
-**MoEssamKhattab/MoEssamKhattab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer passionate about providing high-quality software solutions. Tech enthusiast, driven, creative, detail-oriented and team player.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoEssamKhattab&layout=compact)](https://github.com/MoEssamKhattab/github-readme-stats)
+
+
+## 🌐 Let's Connect
+
+I'm always open to collaboration, discussions, and connecting with like-minded individuals. Feel free to reach out if you share my passion for tech or if you have exciting projects in mind.
+
+
+- [![Email](https://img.shields.io/badge/Email-s--mo.essam%40zewailcity.edu.eg-blue)](mailto:s-mo.essam@zewailcity.edu.eg)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-@MoEssamKhattab-green)](https://www.linkedin.com/in/MoEssamKhattab/)
+- [![Twitter](https://img.shields.io/badge/Twitter-MoEssamKhattab-g)](https://twitter.com/MoEssamKhattab)
