@@ -15,4 +15,4 @@ I'm always open to collaboration, discussions, and connecting with like-minded i
 
 - [![Email](https://img.shields.io/badge/Email-s--mo.essam%40zewailcity.edu.eg-blue)](mailto:s-mo.essam@zewailcity.edu.eg)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-@MoEssamKhattab-green)](https://www.linkedin.com/in/MoEssamKhattab/)
-- [![Twitter](https://img.shields.io/badge/Twitter-MoEssamKhattab-g)](https://twitter.com/MoEssamKhattab)
+- [![Twitter](https://img.shields.io/badge/Twitter-@MoEssamKhattab-g)](https://twitter.com/MoEssamKhattab)
